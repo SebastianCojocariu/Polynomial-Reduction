@@ -1,6 +1,6 @@
 Sebastian Cojocariu 321CB UPB ACS
                                                        
-                                                       Polynomial reduction
+                                                  Polynomial reduction
 
 Fie k numarul de culori disponibile,carora le vom asigna,formal,valorile 0,1,...,k-1
    Pentru fiecare nod v din graf,notam cu p_v(i),cu i=0,k valoarea de adevar a propozitiei "nodul v are culoarea i"(valoarea care va fi convertita la 1 cand e True,respectiv 0 pentru False).Evident,
